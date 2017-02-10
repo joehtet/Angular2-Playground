@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Cat } from './cat';
-//git commit test , ignore
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
